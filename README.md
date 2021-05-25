@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 style="text-align:center;">
-    Hello!
+      <strong>Hello!</strong>
     </h1>
     <h3 style="text-align:center;">
       My name is Lori Lilly.
