@@ -4,5 +4,5 @@
       Hello!
     <h3 style="text-align:center;">
       My name is Lori Lilly.
-      <p>I am an aspiring software developer.
+      I am an aspiring software developer.
  </html>
