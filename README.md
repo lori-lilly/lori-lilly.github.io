@@ -8,3 +8,4 @@
       I am an aspiring software developer.
     <h3 style="text-align:center;">
       Check out what I have accomplished so far!
+      </body>
