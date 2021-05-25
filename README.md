@@ -1,5 +1,5 @@
 <html>
-  <body>
+  <body style="text-align:center;">
     <h1>
     Hello!
     </h1>
